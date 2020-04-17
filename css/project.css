@@ -1,0 +1,30 @@
+p {
+    color: rgb(15, 15, 14);
+    text-align: right;
+    font-size: 8px;
+}
+.intro1 {
+    color:black
+}
+
+li.active{
+    background-color: rgb(14, 24, 14);
+    color: white;
+}
+
+
+.about-nav li {
+list-style-type: none;
+display: block;
+color: black;
+padding: 0;
+margin:0;
+text-align: center;
+text-decoration: none;
+background-color:gray;
+}
+
+.about-nav a {
+    display: block;
+    width: 60px;
+  }
